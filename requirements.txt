@@ -1,0 +1,21 @@
+pypdf
+# Core libraries
+nltk                    # Tokenization for chunking
+numpy                   # Numerical computations
+faiss-cpu               # Vector similarity search
+
+# Embedding models
+sentence-transformers   # Sentence-BERT for embeddings
+
+# Generative models
+transformers           # Hugging Face library for generation
+torch                  # PyTorch for deep learning
+
+# Web interface
+streamlit              # Web app framework
+
+# Optional: Cross-encoder for re-ranking
+scikit-learn            # For additional ranking logic
+
+# Misc
+pandas                  # Data handling for preprocessing
